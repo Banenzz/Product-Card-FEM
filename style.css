@@ -92,7 +92,7 @@ button{
 .buttonimg{
     margin-right: 3px;
     width: 12px;
-    height: 12px;
+    height: 14px;
 }
 
 .buttontext{
@@ -102,6 +102,6 @@ button{
     font-size: 12px;
     letter-spacing: 1px;
     text-transform: none;
-    font-weight: bold;
+    font-weight: 600;
     vertical-align: 2px;
 }
